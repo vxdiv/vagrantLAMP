@@ -1,0 +1,10 @@
+[user]
+     name = Constantine Sidorenko
+     email = sidorenko@startmobile.ua
+[core]
+     editor = mcedit
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = true
