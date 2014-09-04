@@ -1,8 +1,10 @@
-LAMP stack
+#Simplest LAMP stack#
 
-php
-mysql
-apache2
-phpmyadmin
-composer
-mailcatcher
+
+* php 5.5
+* mysql 5.5
+* apache2
+* phpmyadmin
+* composer
+* mailcatcher
+* git
