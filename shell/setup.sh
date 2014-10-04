@@ -42,6 +42,8 @@ fi
 if [ ! -f /var/log/php.install ];
 then
 sudo apt-get install -y php5 libapache2-mod-php5 php5-cli php5-mysql php5-curl php5-gd php5-mcrypt php-pear  php5-xdebug
+#enable mcrypt in php
+sudo php5enmod mcrypt
 sudo touch /var/log/php.install
 fi
 
